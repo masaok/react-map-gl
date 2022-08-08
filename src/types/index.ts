@@ -16,7 +16,7 @@ export type {
   NavigationControl as MapboxNavigationControl,
   ScaleControl as MapboxScaleControl,
   ElevationQueryOptions
-} from 'mapbox-gl';
+} from '!mapbox-gl';
 
 /**
  * Stub for mapbox's Transform class

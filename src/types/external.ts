@@ -132,4 +132,4 @@ export type {
   MapboxGeoJSONFeature,
   IControl,
   Map as MapboxMap
-} from 'mapbox-gl';
+} from '!mapbox-gl';
